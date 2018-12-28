@@ -1,0 +1,36 @@
+
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Dd]ebug
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+*.orig
+*dbmdl
+src/Pearson.Portal.Web/public/dist/*.*
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
+[Bb]in
+
